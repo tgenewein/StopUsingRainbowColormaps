@@ -4,3 +4,5 @@
 
 
 A jupyter notebook showing why rainbow colormaps (jet) are a bad idea and lead to poor visual communication. Feel free to pass this on or re-use it (partially) to quickly convince your colleagues or the authors of a paper that you're reviewing.
+
+Use the button above to launch the interactive notebook in your browser using binder.
